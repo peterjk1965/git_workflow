@@ -1,0 +1,6 @@
+\\some feeatures
+main()
+{
+code
+}
+
